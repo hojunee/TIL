@@ -2,7 +2,7 @@
 
 * [All about Hojun Lee 🤔](README.md)
 
-## Today I Learned
+## Today I Learned - iOS
 
-* [iOS](today-i-learned/untitled.md)
+* [iOS](today-i-learned-ios/untitled.md)
 
