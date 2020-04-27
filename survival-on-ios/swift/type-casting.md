@@ -2,7 +2,7 @@
 description: Swift에서 자료형을 어떻게 다루면 좋을까? - is / as
 ---
 
-# Type Casting
+# Type Casting \(is, as\)
 
 ### is
 

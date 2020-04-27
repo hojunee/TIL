@@ -2,8 +2,10 @@
 
 * [All about Hojun Lee 🤔](README.md)
 
-## Survival on Swift
+## Survival on iOS
 
-* [Swift](survival-on-swift/swift/README.md)
-  * [Type Casting](survival-on-swift/swift/type-casting.md)
+* [Swift](survival-on-ios/swift/README.md)
+  * [Property](survival-on-ios/swift/property.md)
+  * [repeat-while](survival-on-ios/swift/repeat-while.md)
+  * [Type Casting \(is, as\)](survival-on-ios/swift/type-casting.md)
 
