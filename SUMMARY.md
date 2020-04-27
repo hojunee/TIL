@@ -4,5 +4,5 @@
 
 ## Today I Learned - iOS
 
-* [iOS](today-i-learned-ios/swift.md)
+* [Type Casting](today-i-learned-ios/swift.md)
 
