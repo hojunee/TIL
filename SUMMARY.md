@@ -2,7 +2,8 @@
 
 * [All about Hojun Lee 🤔](README.md)
 
-## Today I Learned - iOS
+## Survival on Swift
 
-* [Type Casting](today-i-learned-ios/type-casting.md)
+* [Swift](survival-on-swift/swift/README.md)
+  * [Type Casting](survival-on-swift/swift/type-casting.md)
 
