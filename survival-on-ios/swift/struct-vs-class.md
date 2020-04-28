@@ -1,3 +1,7 @@
+---
+description: 비슷한 것 같지만 의미적으로 전혀 다른 두 녀석
+---
+
 # struct vs class
 
 ## **struct는 Value를 만들고 class는 Object를 만든다**
