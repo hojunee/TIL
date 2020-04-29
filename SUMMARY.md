@@ -21,3 +21,8 @@
   * [Repeat-while](survival-on-ios/swift/repeat-while.md)
   * [Type Casting \(is, as\)](survival-on-ios/swift/type-casting.md)
 
+## Computer Science
+
+* [Computer Network](computer-science/computer-network/README.md)
+  * [Notation](computer-science/computer-network/notation.md)
+
