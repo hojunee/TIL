@@ -5,6 +5,7 @@
 ## Survival on iOS
 
 * [iOS - UIKit](survival-on-ios/ios-uikit/README.md)
+  * [UITabBarController](survival-on-ios/ios-uikit/uitabbarcontroller.md)
   * [Navigation vs Modal](survival-on-ios/ios-uikit/navigation-vs-modal.md)
   * [What is UIKit?](survival-on-ios/ios-uikit/what-is-uikit.md)
   * [What is Cocoa Touch Framework?](survival-on-ios/ios-uikit/what-is-cocoa-touch-framework.md)
