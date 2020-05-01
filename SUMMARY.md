@@ -4,7 +4,10 @@
 
 ## Survival on iOS
 
+* [Design Pattern](survival-on-ios/design-pattern/README.md)
+  * [MVVM Pattern](survival-on-ios/design-pattern/mvvm-pattern.md)
 * [iOS - UIKit](survival-on-ios/ios-uikit/README.md)
+  * [Delegate\(대리자\)](survival-on-ios/ios-uikit/delegate.md)
   * [UITabBarController](survival-on-ios/ios-uikit/uitabbarcontroller.md)
   * [Navigation vs Modal](survival-on-ios/ios-uikit/navigation-vs-modal.md)
   * [What is UIKit?](survival-on-ios/ios-uikit/what-is-uikit.md)
