@@ -1,11 +1,11 @@
 # MVVM Pattern
 
-![&#xAE30;&#xC874;&#xC758; MVC &#xD328;&#xD134;](../../.gitbook/assets/image%20%285%29.png)
+![&#xAE30;&#xC874;&#xC758; MVC &#xD328;&#xD134;](../../.gitbook/assets/image%20%281%29.png)
 
 디자인 패턴에는 종류가 많다. 오늘은 그중에서도 이번 프로젝트에서 사용되는 MVVM 패턴에 대해 학습해보자.  
 
 
-![MVVM&#xC758; &#xAE30;&#xBCF8; Structure](../../.gitbook/assets/image%20%286%29.png)
+![MVVM&#xC758; &#xAE30;&#xBCF8; Structure](../../.gitbook/assets/image%20%285%29.png)
 
 ## Notation of Structure
 

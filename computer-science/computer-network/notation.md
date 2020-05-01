@@ -70,7 +70,7 @@ description: 용어가 너무 어렵당... 그럼 정리해야지!
 
 * IP프로토콜 간에 교환되는 Packet
 
-![](../../.gitbook/assets/image%20%284%29.png)
+![](../../.gitbook/assets/image%20%282%29.png)
 
 * 같은 그룹의 Packet이 다른 경로로 전달될 수 있음. 따라서 이를 추후에 재조합할 수 있는 단서를 여기에 남겨둠
 

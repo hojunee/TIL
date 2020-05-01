@@ -16,6 +16,7 @@
 * [Reactive Programming & RxSwift](survival-on-ios/reactive-programming-and-rxswift/README.md)
   * [Requisite : What is Functional Programming?](survival-on-ios/reactive-programming-and-rxswift/requisite-what-is-functional-programming.md)
 * [Swift](survival-on-ios/swift/README.md)
+  * [Image Literal & Color Literal](survival-on-ios/swift/image-literal-and-color-literal.md)
   * [생성자와 소멸자 \(init/deinit\)](survival-on-ios/swift/init-deinit.md)
   * [Property Observer](survival-on-ios/swift/property-observer.md)
   * [struct vs class](survival-on-ios/swift/struct-vs-class.md)
