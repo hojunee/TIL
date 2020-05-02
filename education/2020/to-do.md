@@ -1,5 +1,5 @@
 ---
-description: 2019.03.19 ~ 2020.04.23
+description: Lecturer of "To-do List with Python/django" - 2019.03.19 ~ 2020.04.23
 ---
 
 # 나만의 To-do 사이트 만들기
