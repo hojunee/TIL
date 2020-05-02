@@ -2,11 +2,32 @@
 
 * [All about Hojun Lee 🤔](README.md)
 
+## Computer Science
+
+* [Computer Network](computer-science/computer-network/README.md)
+  * [Notation](computer-science/computer-network/notation.md)
+
+## Design
+
+* [Design](design/design-1/README.md)
+  * [Layout & Composition](design/design-1/layout-and-composition.md)
+
+## Education
+
+* [2018](education/2018.md)
+* [2019](education/2019/README.md)
+  * [D&D \(backlog\)](education/2019/d-and-d-backlog.md)
+  * [시대나눔학교 4기 장학샘 \(backlog\)](education/2019/4-backlog.md)
+  * [AL林 \(backlog\)](education/2019/al-lin-backlog.md)
+* [2020](education/2020/README.md)
+  * [나만의 To-do 사이트 만들기](education/2020/to-do.md)
+
 ## Survival on iOS
 
 * [Design Pattern](survival-on-ios/design-pattern/README.md)
   * [MVVM Pattern](survival-on-ios/design-pattern/mvvm-pattern.md)
 * [iOS - UIKit](survival-on-ios/ios-uikit/README.md)
+  * [UIFont - Custom Font 적용하기](survival-on-ios/ios-uikit/uifont-custom-font.md)
   * [Delegate\(대리자\)](survival-on-ios/ios-uikit/delegate.md)
   * [UITabBarController](survival-on-ios/ios-uikit/uitabbarcontroller.md)
   * [Navigation vs Modal](survival-on-ios/ios-uikit/navigation-vs-modal.md)
@@ -24,9 +45,4 @@
   * [Property](survival-on-ios/swift/property.md)
   * [Repeat-while](survival-on-ios/swift/repeat-while.md)
   * [Type Casting \(is, as\)](survival-on-ios/swift/type-casting.md)
-
-## Computer Science
-
-* [Computer Network](computer-science/computer-network/README.md)
-  * [Notation](computer-science/computer-network/notation.md)
 
