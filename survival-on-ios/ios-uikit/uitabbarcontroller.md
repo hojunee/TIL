@@ -49,3 +49,25 @@ tabBarController.viewControllers = [homeVC, searchVC, postVC, activityVC, userVC
 
 * UITabBarItem\(\)의 인스턴스를 생성 → ViewController\(\)에 할당
 
+
+
+### 실제 코드단에서 더 쉽게 작성하기\(added on 5/6\)
+
+```swift
+class TabBarController: UITabBarController {
+    
+    // 1. Initialize UINavigationController(with root VC)
+    private var homeVC = UINavigationController(rootViewController: ...)
+    ...
+    
+    // on ViewDidLoad
+    // 2. Set viewControllers on UITabBarController
+    self.viewControllers = [homeVC, ...]
+    // 3. Set tabBarItem with initializer - title, image, tag
+    homeVC.tabBarItem = .init(title: "홈", image: nil, tag: 0)
+    ...
+    // 4. Hide NavBar(since we use TabBarController)
+    homeVC.navigationBar.isHidden = true
+}
+```
+
