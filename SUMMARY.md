@@ -4,6 +4,9 @@
 
 ## Computer Science
 
+* [Algorithm](computer-science/algorithm/README.md)
+  * [BOJ](computer-science/algorithm/boj/README.md)
+    * [1081. 합](computer-science/algorithm/boj/1081..md)
 * [Computer Network](computer-science/computer-network/README.md)
   * [Notation](computer-science/computer-network/notation.md)
 
