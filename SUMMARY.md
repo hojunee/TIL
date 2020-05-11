@@ -9,6 +9,8 @@
     * [1081. 합](computer-science/algorithm/boj/1081..md)
 * [Computer Network](computer-science/computer-network/README.md)
   * [Notation](computer-science/computer-network/notation.md)
+* [Database](computer-science/database/README.md)
+  * [What is Database?](computer-science/database/what-is-database.md)
 
 ## Design
 
