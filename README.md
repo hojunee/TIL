@@ -57,7 +57,14 @@ description: 저를 소개합니다!
 * [일정관리부터 가계부까지 : 나만의 To-do 사이트 만들기](https://academy.elice.io/tracks/107/info) 강사
 * 이화누리 과학기술 멘토링 in 이화여자대학교 \[예정\] \(2020.8 ~\)
 
-### 상도 가끔은 탑니다!
+### 배운 걸 바탕으로 이것저것 만들려고 도전! 💪
+
+* Mobile Project X
+  * Draw App UI with UIKit/Swift \(backlog : make Business Logic ASAP!\) 
+* Mobile Project Y
+  * Construct backend related to React Native \(Serverless? Docker?\) 
+
+### 상도 탈 줄 압니! 🏅
 
 * 2018 제2회 UOSPC\(시립대 알고리즘 경진대회\) Div.2 Silver Award
 * 2018 ACM-ICPC\(전국대학생프로그래밍경진대회\) 학교 대표 본선진출

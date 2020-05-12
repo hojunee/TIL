@@ -10,6 +10,7 @@
 * [Computer Network](computer-science/computer-network/README.md)
   * [Notation](computer-science/computer-network/notation.md)
 * [Database](computer-science/database/README.md)
+  * [mariaDB - Database와 Table](computer-science/database/mariadb-database-table.md)
   * [What is Database?](computer-science/database/what-is-database.md)
 
 ## Design
@@ -58,5 +59,4 @@
   * [Property](survival-on-ios/swift/property.md)
   * [Repeat-while](survival-on-ios/swift/repeat-while.md)
   * [Type Casting \(is, as\)](survival-on-ios/swift/type-casting.md)
-* [mariaDB - Database와 Table](mariadb-database-table.md)
 
