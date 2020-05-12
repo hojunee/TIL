@@ -58,4 +58,5 @@
   * [Property](survival-on-ios/swift/property.md)
   * [Repeat-while](survival-on-ios/swift/repeat-while.md)
   * [Type Casting \(is, as\)](survival-on-ios/swift/type-casting.md)
+* [mariaDB - Database와 Table](mariadb-database-table.md)
 
