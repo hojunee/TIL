@@ -64,7 +64,7 @@ description: 저를 소개합니다!
 * Mobile Project Y
   * Construct backend related to React Native \(Serverless? Docker?\) 
 
-### 상도 탈 줄 압니! 🏅
+### 상도 탈 줄 압니다! 🏅 
 
 * 2018 제2회 UOSPC\(시립대 알고리즘 경진대회\) Div.2 Silver Award
 * 2018 ACM-ICPC\(전국대학생프로그래밍경진대회\) 학교 대표 본선진출
