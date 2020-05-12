@@ -59,7 +59,7 @@ description: 저를 소개합니다!
 
 ### 배운 걸 바탕으로 이것저것 만들려고 도전! 💪
 
-* Mobile Project X
+* [Mobile Project X](http://www.univus.io/)
   * Draw App UI with UIKit/Swift \(backlog : make Business Logic ASAP!\) 
 * Mobile Project Y
   * Construct backend related to React Native \(Serverless? Docker?\) 
