@@ -6,6 +6,7 @@
 
 * [Algorithm](computer-science/algorithm/README.md)
   * [BOJ](computer-science/algorithm/boj/README.md)
+    * [1012. 유기농 배추](computer-science/algorithm/boj/1012..md)
     * [1260. DFS와 BFS](computer-science/algorithm/boj/1260.-dfs-bfs.md)
     * [1081. 합](computer-science/algorithm/boj/1081..md)
 * [Computer Network](computer-science/computer-network/README.md)
