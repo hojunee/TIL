@@ -6,6 +6,7 @@
 
 * [Algorithm](computer-science/algorithm/README.md)
   * [BOJ](computer-science/algorithm/boj/README.md)
+    * [1260. DFS와 BFS](computer-science/algorithm/boj/1260.-dfs-bfs.md)
     * [1081. 합](computer-science/algorithm/boj/1081..md)
 * [Computer Network](computer-science/computer-network/README.md)
   * [Notation](computer-science/computer-network/notation.md)
@@ -39,6 +40,7 @@
 * [Design Pattern](survival-on-ios/design-pattern/README.md)
   * [MVVM Pattern](survival-on-ios/design-pattern/mvvm-pattern.md)
 * [iOS - UIKit](survival-on-ios/ios-uikit/README.md)
+  * [UIStackView - 각 Cell 사이에 간격 넣기](survival-on-ios/ios-uikit/uistackview-cell.md)
   * [Image Literal & Color Literal](survival-on-ios/ios-uikit/image-literal-and-color-literal.md)
   * [UIFont - Custom Font 적용하기](survival-on-ios/ios-uikit/uifont-custom-font.md)
   * [Delegate\(대리자\)](survival-on-ios/ios-uikit/delegate.md)
