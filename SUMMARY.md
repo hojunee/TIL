@@ -62,4 +62,5 @@
   * [Property](survival-on-ios/swift/property.md)
   * [Repeat-while](survival-on-ios/swift/repeat-while.md)
   * [Type Casting \(is, as\)](survival-on-ios/swift/type-casting.md)
+* [6630. 로또](6630..md)
 
