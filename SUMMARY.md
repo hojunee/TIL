@@ -6,6 +6,8 @@
 
 * [Algorithm](computer-science/algorithm/README.md)
   * [BOJ](computer-science/algorithm/boj/README.md)
+    * [2529. 부등호](computer-science/algorithm/boj/2529..md)
+    * [6630. 로또](computer-science/algorithm/boj/6630..md)
     * [1012. 유기농 배추](computer-science/algorithm/boj/1012..md)
     * [1260. DFS와 BFS](computer-science/algorithm/boj/1260.-dfs-bfs.md)
     * [1081. 합](computer-science/algorithm/boj/1081..md)
@@ -62,5 +64,4 @@
   * [Property](survival-on-ios/swift/property.md)
   * [Repeat-while](survival-on-ios/swift/repeat-while.md)
   * [Type Casting \(is, as\)](survival-on-ios/swift/type-casting.md)
-* [6630. 로또](6630..md)
 
