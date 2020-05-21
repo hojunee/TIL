@@ -6,6 +6,7 @@
 
 * [Algorithm](computer-science/algorithm/README.md)
   * [BOJ](computer-science/algorithm/boj/README.md)
+    * [1987. 알파벳](computer-science/algorithm/boj/1987..md)
     * [9466. 텀 프로젝트](computer-science/algorithm/boj/9466..md)
     * [2529. 부등호](computer-science/algorithm/boj/2529..md)
     * [6630. 로또](computer-science/algorithm/boj/6630..md)
