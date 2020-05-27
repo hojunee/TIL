@@ -5,7 +5,7 @@
 ## Computer Science
 
 * [Machine Learning](computer-science/machine-learning/README.md)
-  * [Reinforce Learning](computer-science/machine-learning/reinforce-learning/README.md)
+  * [Reinforcement Learning](computer-science/machine-learning/reinforce-learning/README.md)
     * [Introduction to Reinforcement Learning](computer-science/machine-learning/reinforce-learning/introduction-to-reinforcement-learning.md)
     * [Markov Decision Process](computer-science/machine-learning/reinforce-learning/markov-decision-process.md)
 * [Algorithm](computer-science/algorithm/README.md)
