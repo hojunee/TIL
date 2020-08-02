@@ -21,7 +21,7 @@ description: 저를 소개합니다!
 
 ### 공부는 꾸준히 ✏️
 
-* 42 Seoul La Piscine \[예정\] \(2020.6\) 미뤄졌네요😭
+* 42 Seoul La Piscine - Finished, waiting for evaluation...
 * 서울시립대학교 **컴퓨터과학부** / 통계학과 이수중 \(2017.3 ~ \)
 * 수지고등학교 졸업 \(2014.3 ~ 2017.2\)
 
@@ -56,13 +56,12 @@ description: 저를 소개합니다!
 * [Do it! 첫 파이썬](https://book.naver.com/bookdb/book_detail.nhn?bid=16324192) 집필 참여
 * [일정관리부터 가계부까지 : 나만의 To-do 사이트 만들기](https://academy.elice.io/tracks/107/info) 강사
 * 이화누리 과학기술 멘토링 in 이화여자대학교 \[예정\] \(2020.8 ~\)
+* DSC University of Seoul Lead \[예정\] \(2020.8~\)
 
 ### 배운 걸 바탕으로 이것저것 만들려고 도전! 💪
 
 * [Mobile Project X](http://www.univus.io/)
   * Draw App UI with UIKit/Swift \(backlog : make Business Logic ASAP!\) 
-* Mobile Project Y
-  * Construct backend related to React Native \(Serverless? Docker?\) 
 
 ### 상도 탈 줄 압니다! 🏅 
 
