@@ -42,6 +42,8 @@
   * [D&D \(backlog\)](education/2019/d-and-d-backlog.md)
   * [시대나눔학교 4기 장학샘 \(backlog\)](education/2019/4-backlog.md)
 * [2020](education/2020/README.md)
+  * [DSC University of Seoul](education/2020/dsc-university-of-seoul/README.md)
+    * [2020-2021 Kickoff](education/2020/dsc-university-of-seoul/2020-2021-kickoff.md)
   * [42 Seoul - La Piscine](education/2020/42-seoul-la-piscine.md)
   * [런잇나우 첫 파이썬](education/2020/undefined.md)
   * [나만의 To-do 사이트 만들기](education/2020/to-do.md)

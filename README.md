@@ -13,16 +13,15 @@ description: 저를 소개합니다!
 
 ### 지금은 이런 것들을 하는중이에요 🤔
 
-* **iOS Programming \(with Swift/RxSwift\)**
-* **Web Application Programming \(with django\)**
-* **Programming Education**
-* **Computational Thinking Education**
-* Artificial Intelligence
+* **Statistics / Artificial Intelligence / Machine Learning**
+* **Programming Education / Computational Thinking Education**
+* Problem Solving \(PS\)
+* Web Application Programming \(with django\)
 
 ### 공부는 꾸준히 ✏️
 
-* 42 Seoul Cadet
-* 서울시립대학교 **컴퓨터과학부** / 통계학과 이수중 \(2017.3 ~ \)
+* 42 Seoul Cadet \(2020.9 ~ \)
+* 서울시립대학교 **컴퓨터과학부** / 통계학과 재학 \(2017.3 ~ \)
 * 수지고등학교 졸업 \(2014.3 ~ 2017.2\)
 
 ### 교육은 재미있어서 이것저것 해보고 있어요 🏫
@@ -55,15 +54,11 @@ description: 저를 소개합니다!
 * [런잇나우 첫 파이썬](https://school.elice.io/courses/2390/info) 강사
 * [Do it! 첫 파이썬](https://book.naver.com/bookdb/book_detail.nhn?bid=16324192) 집필 참여
 * [일정관리부터 가계부까지 : 나만의 To-do 사이트 만들기](https://academy.elice.io/tracks/107/info) 강사
-* 이화누리 과학기술 멘토링 in 이화여자대학교
+* 이화누리 과학기술 멘토링 in 이화여자대학교 
+* 하나금융TI - SQL / JavaScript 교육 진행
 * DSC University of Seoul Lead
 
-### 배운 걸 바탕으로 이것저것 만들려고 도전! 💪
-
-* [Mobile Project X](http://www.univus.io/)
-  * Draw App UI with UIKit/Swift \(backlog : make Business Logic ASAP!\) 
-
-### 상도 탈 줄 압니다! 🏅 
+### 수상기록 🏅 
 
 * 2018 제2회 UOSPC\(시립대 알고리즘 경진대회\) Div.2 Silver Award
 * 2018 ACM-ICPC\(전국대학생프로그래밍경진대회\) 학교 대표 본선진출
